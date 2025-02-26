@@ -1,4 +1,4 @@
-# CMU 18776 Course Project
+# Quadrotor Controller
 
 ## Installation
 - Copy the folders 'lqr_att_controller' and 'observer' in 'Firmware/src/modules'.
